@@ -1,0 +1,26 @@
+payload:
+  - DOMAIN-KEYWORD,cnki
+  - DOMAIN-KEYWORD,huya
+  - DOMAIN-KEYWORD,xjtu
+  - DOMAIN-SUFFIX,edu.cn
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,pdf.sciencedirectassets.com
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,scopus.com
+  - DOMAIN-SUFFIX,relx.com
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,endnote.com
+  - DOMAIN-SUFFIX,incites.com
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,tandfonline.com
+  - DOMAIN-SUFFIX,acm.org
+  - DOMAIN-SUFFIX,proquest.com
+  - DOMAIN-SUFFIX,oxfordacademic.com
+  - DOMAIN-SUFFIX,cambridge.org
+  - DOMAIN-SUFFIX,asce.org
+  - DOMAIN-SUFFIX,ascelibrary.org
+  - DOMAIN-SUFFIX,kujiale.com
