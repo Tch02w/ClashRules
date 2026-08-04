@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,cnki
   - DOMAIN-KEYWORD,huya
   - DOMAIN-KEYWORD,xjtu
+  - DOMAIN-KEYWORD,intel
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,pdf.sciencedirectassets.com
