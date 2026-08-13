@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,huya
   - DOMAIN-KEYWORD,xjtu
   - DOMAIN-KEYWORD,intel
+  - DOMAIN-KEYWORD,autodesk
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,pdf.sciencedirectassets.com
@@ -26,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,ascelibrary.org
   - DOMAIN-SUFFIX,kujiale.com
   - DOMAIN-SUFFIX,hub.atk.pro
+  - DOMAIN-SUFFIX,immersivetranslate.com
