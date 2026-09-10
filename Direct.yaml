@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,xjtu
   - DOMAIN-KEYWORD,intel
   - DOMAIN-KEYWORD,autodesk
+  - DOMAIN-KEYWORD,readest
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,elsevier.com
   - DOMAIN-SUFFIX,pdf.sciencedirectassets.com
